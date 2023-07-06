@@ -1,0 +1,17 @@
+body{
+    width: 90%;
+    margin: 0 auto  ;
+}
+.cabecera{
+    background-image: url(img/supersonico.jpg);
+    background-repeat: no-repeat;
+    background-position: 150px;
+    background-color: rgb(224, 187, 139);
+    color: rgb(120, 113, 224);
+    height: 300px;
+    padding-top: 300px;
+    text-align: center;
+}
+.titulo{
+
+}
